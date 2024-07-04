@@ -23,6 +23,7 @@ def opcao():
     print('1 - Cadastrar pedido')
     print('2 - Consultar pedido')
     print('3 - Sair')
+    print('4 - area de pagamento')
     opcaoEscolhida = int(input('Digite a opção desejada: '))
     mostrarLinhas()
     
